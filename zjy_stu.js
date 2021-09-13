@@ -338,7 +338,7 @@ function globalDataHander () {
   }, 8000)
 };
 
-// go
+// run
 if (initial() === true) {
   main()
 } else {
